@@ -5,16 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-rajpal" alt="muskan-rajpal" /> </p>
 
-#### 👩‍🎓 I am an Undergraduate, always curious about Data, willing to learn more about it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀.
+#### 👩‍🎓 An undergraduate who spends 50% of the time writing code and 50% of the time debugging it 👩‍💻. <br /> Besides programming, I enjoy writing novels and blogs!📖✍ .
 
 <br />
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Cloud Computing and Virtualization**
 
-- 👯 I’m looking to collaborate on **ML and DL Projects**
-
-- 🤔 I’m looking for help with **learning anything new!**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🔭 I’m currently working on **improving my Skills**
 
@@ -22,7 +20,7 @@
 
 - 📫 How to reach me **muskan.rajpal_cs18@gla.ac.in**
 
-- ⚡ Fun fact **Chai over Coffee**
+- ⚡ Fun fact **I never say no to Chai!!☕ **
 
 <br>
 
