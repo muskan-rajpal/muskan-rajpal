@@ -51,7 +51,7 @@
 <a href="https://www.hackerrank.com/_181500405" target="_blank">
   <img align="left" alt="muskan" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
 </a>
-                                                                                                                                                                            <a    <a href="https://instagram.com/xo_muskan_xo" target="_blank">
+                                                                                                                                                                               <a href="https://instagram.com/xo_muskan_xo" target="_blank">
   <img align="left" alt="sameeksha.___ | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
 </a>
 <br />
@@ -65,8 +65,6 @@
 <img align="left" alt="java" title="Java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
 
 <img align="left" alt="c" title="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
-
-<img align="left" alt="opencv" title="OpenCV" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
 
 <img align="left" alt="html5" title="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />
 
