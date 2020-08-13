@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Muskan Rajpal 👋</h1>
-<h3 align="center">A passionate AWS aspirant with keen interest in Cloud Computing and Back End Coding!</h3>
+<h3 align="center">A passionate AWS aspirant with keen interest in Cloud Computing and Back End Coding!💻</h3>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksharathi" alt="sameeksharathi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-rajpal" alt="muskan-rajpal" /> </p>
 
 #### 👩‍🎓 I am an Undergraduate, always curious about Data, willing to learn more about it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀.
 
@@ -31,9 +31,9 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="sameeksharathi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-rajpal&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="muskan-rajpal" />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="sameeksharathi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=muskan-rajpal&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="muskan-rajpal" />
 <br />
 <br />
 <br />
