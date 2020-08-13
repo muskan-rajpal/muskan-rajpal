@@ -8,7 +8,7 @@
 #### 👩‍🎓 An undergraduate who spends 50% of the time writing code and 50% of the time debugging it 👩‍💻. <br /> Besides programming, I enjoy writing novels and blogs!📖✍ .
 
 <br />
-<img align="right" alt="GIF" src="https://assets.materialup.com/uploads/0658a030-492e-4e24-bf08-8eb68943f895/preview.gif" width="400px" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
 
 - 🌱 I’m currently learning **Cloud Computing and Virtualization**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **muskan.rajpal_cs18@gla.ac.in**
 
-- ⚡ Fun fact **I never say no to Chai!!☕ **
+- ⚡ Fun fact **I never say no to Chai!!☕**
 
 <br>
 
