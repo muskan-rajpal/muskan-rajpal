@@ -73,4 +73,7 @@
 <img align="left" alt="bootstrap" title="Bootstrap4 & Bootstrap5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" /> 
 
 <img align="left" alt="oracle" title="Oracle" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" /> 
+<img align="left" alt="Mongo" title="Mongo" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /> 
+
+<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <br /><br />
