@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="left"> <img src="https://assets.materialup.com/uploads/0658a030-492e-4e24-bf08-8eb68943f895/preview.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-rajpal" alt="muskan-rajpal" /> </p>
 
 #### 👩‍🎓 An undergraduate who spends 50% of the time writing code and 50% of the time debugging it 👩‍💻. <br /> Besides programming, I enjoy writing novels and blogs!📖✍ .
 
