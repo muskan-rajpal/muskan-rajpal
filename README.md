@@ -8,7 +8,7 @@
 #### 👩‍🎓 An undergraduate who spends 50% of the time writing code and 50% of the time debugging it 👩‍💻. <br /> Besides programming, I enjoy writing novels and blogs!📖✍ .
 
 <br />
-<img align="right" alt="GIF" src="preview.gif" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/muskan-rajpal/muskan-rajpal/blob/master/preview.gif" width="400px" />
 
 - 🌱 I’m currently learning **Cloud Computing and Virtualization, Competitive Programming and Full Stack Technologies**
 
