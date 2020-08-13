@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **anything you feel like!**
 
-- 📫 How to reach me **sameeksha.rathi_cs18@gla.ac.in**
+- 📫 How to reach me **muskan.rajpal_cs18@gla.ac.in**
 
 - ⚡ Fun fact **Chai over Coffee**
 
@@ -45,22 +45,14 @@
 <hr>
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/sameeksha-rathi-7a0164141/" target="_blank">
-  <img align="left" alt="sameeksha-rathi-7a0164141" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
+<a href="https://www.linkedin.com/mwlite/in/muskan-rajpal-65b263188" target="_blank">
+  <img align="left" alt="muskan-rajpal-65b263188" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg""> 
 </a>                                                                                                                                     
-<a href="https://www.hackerrank.com/_181500611" target="_blank">
-  <img align="left" alt="sameeksha" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
+<a href="https://www.hackerrank.com/_181500405" target="_blank">
+  <img align="left" alt="muskan" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
 </a>
-<a href="https://twitter.com/sameeksha__r" target="_blank">
-  <img align="left" alt="sameeksha__r | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg">
-</a>                                                                                                                                                                             <a href="https://kaggle.com/sameeksharathi" target="_blank">
-  <img align="left" alt="sameeksharathi | Kaggle" title="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg">
-</a>                                               
-<a href="https://instagram.com/sameeksha.___" target="_blank">
+                                                                                                                                                                            <a    <a href="https://instagram.com/xo_muskan_xo" target="_blank">
   <img align="left" alt="sameeksha.___ | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
-</a>
-<a href="https://medium.com/@rathisameeksha9" target="_blank">
-  <img align="left" alt="@rathisameeksha9 | Medium" title="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg">
 </a>
 <br />
 <br />
