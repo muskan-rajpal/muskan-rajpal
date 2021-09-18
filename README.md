@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muskan Rajpal 👋</h1>
-<h3 align="center">A passionate AWS aspirant with keen interest in Cloud Computing and Full Stack Development!💻</h3>
+<h3 align="center">A passionate aspirant with keen interest in Cloud Computing and Full Stack Development!💻</h3>
 
 <br>
 
