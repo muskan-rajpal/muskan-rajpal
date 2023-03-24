@@ -1,24 +1,19 @@
 <h1 align="center">Hi there, I'm Muskan Rajpal 👋</h1>
-<h3 align="center">A passionate aspirant with keen interest in Cloud Computing and Full Stack Development!💻</h3>
+<h3 align="center">A passionate aspirant working on Azure related technologies!💻</h3>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-rajpal" alt="muskan-rajpal" /> </p>
 
-#### 👩‍🎓 An undergraduate who spends 50% of the time writing code and 50% of the time debugging it 👩‍💻. <br /> Besides programming, I enjoy writing novels and blogs!📖✍ .
+#### 👩‍🎓 A human being who spends 50% of the time writing code and 50% of the time debugging it 👩‍💻. <br /> Besides that, I enjoy writing novels and blogs!📖✍ .
 
 <br />
 <img align="right" alt="GIF" src="https://github.com/muskan-rajpal/muskan-rajpal/blob/master/preview.gif" width="400px" />
 
-- 🌱 I’m currently learning **Cloud Computing and Virtualization, Competitive Programming and Full Stack Technologies**
-
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 🔭 I’m currently working on **improving my Skills**
 
 - 💬 Ask me about **anything you feel like!**
 
-- 📫 How to reach me **muskan.rajpal_cs18@gla.ac.in**
+- 📫 How to reach me **muskanrajpal0809@gmail.com**
 
 - ⚡ Fun fact **I never say no to Chai!!☕**
 
